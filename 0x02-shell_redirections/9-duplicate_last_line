@@ -1,0 +1,2 @@
+#!/bin/usr
+tail -l iacta >> iacta
